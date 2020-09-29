@@ -1,1 +1,1 @@
-# GRIP-Task-2
+# GRIP-DS/ML
